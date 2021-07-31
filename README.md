@@ -1,15 +1,24 @@
 # Car-Price-Prediction-ML-Project
 Hello! This is my first Machine Learning Project, whose objective is to compute the price of a car. The parameters, which are used to determine the effective price of the car is as follows:
 
-Year of the purchase of the car
-Model of the Car
-Owner(s)
-Vehicle Transmission (Automatic/Manual)
-Fuel Type (Petrol/Diesel/CNG)
-Seller Type (Dealer/Non-Dealer)
-Present Ex-Showroom Price
-Price at which the owner would like to sell the car
-Number of kilometers driven
+1)Year of the purchase of the car
+
+2)Model of the Car
+
+3)Owner(s)
+
+4)Vehicle Transmission (Automatic/Manual)
+
+5)Fuel Type (Petrol/Diesel/CNG)
+
+6)Seller Type (Dealer/Non-Dealer)
+
+7)Present Ex-Showroom Price
+
+8)Price at which the present owner would like to sell the car
+
+9)Number of kilometers driven
+
 The link for the dataset which I used is: https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv
 
 The libraries used in this project: Numpy,Pandas,Matplotlib,Scikit-learn
